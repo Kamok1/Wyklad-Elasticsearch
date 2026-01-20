@@ -1,0 +1,12 @@
+Zadanie 2.1.a:
+Publisher.keyword : "Nintendo"
+Zadanie 2.1.b:
+Name : "Pokemon*"
+Zadanie 2.2.a:
+Genre.keyword : "Action" and Year > 2010
+Zadanie 2.2.b:
+tags : "RETRO_CLASSIC" and Genre.keyword : "Shooter"
+Zadanie 2.3.a:
+(Global_Sales >= 15 or Publisher.keyword : "Take-Two Interactive") and not Genre.keyword : "Sports"
+Zadanie 2.3.b:
+Platform.keyword : ("PS3" or "X360") and JP_Sales > 0.5

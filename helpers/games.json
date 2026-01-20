@@ -1,0 +1,203 @@
+POST _bulk
+{ "index" : { "_index" : "games" } }
+{ "Rank": 1, "Name": "Wii Sports", "Platform": "Wii", "Year": 2006, "Genre": "Sports", "Publisher": "Nintendo", "Global_Sales": 82.74 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 2, "Name": "Super Mario Bros.", "Platform": "NES", "Year": 1985, "Genre": "Platform", "Publisher": "Nintendo", "Global_Sales": 40.24 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 3, "Name": "Mario Kart Wii", "Platform": "Wii", "Year": 2008, "Genre": "Racing", "Publisher": "Nintendo", "Global_Sales": 35.82 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 4, "Name": "Wii Sports Resort", "Platform": "Wii", "Year": 2009, "Genre": "Sports", "Publisher": "Nintendo", "Global_Sales": 33.00 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 5, "Name": "Pokemon Red/Pokemon Blue", "Platform": "GB", "Year": 1996, "Genre": "Role-Playing", "Publisher": "Nintendo", "Global_Sales": 31.37 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 6, "Name": "Tetris", "Platform": "GB", "Year": 1989, "Genre": "Puzzle", "Publisher": "Nintendo", "Global_Sales": 30.26 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 7, "Name": "New Super Mario Bros.", "Platform": "DS", "Year": 2006, "Genre": "Platform", "Publisher": "Nintendo", "Global_Sales": 30.01 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 8, "Name": "Wii Play", "Platform": "Wii", "Year": 2006, "Genre": "Misc", "Publisher": "Nintendo", "Global_Sales": 29.02 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 9, "Name": "New Super Mario Bros. Wii", "Platform": "Wii", "Year": 2009, "Genre": "Platform", "Publisher": "Nintendo", "Global_Sales": 28.62 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 10, "Name": "Duck Hunt", "Platform": "NES", "Year": 1984, "Genre": "Shooter", "Publisher": "Nintendo", "Global_Sales": 28.31 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 11, "Name": "Nintendogs", "Platform": "DS", "Year": 2005, "Genre": "Simulation", "Publisher": "Nintendo", "Global_Sales": 24.76 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 12, "Name": "Mario Kart DS", "Platform": "DS", "Year": 2005, "Genre": "Racing", "Publisher": "Nintendo", "Global_Sales": 23.42 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 13, "Name": "Pokemon Gold/Pokemon Silver", "Platform": "GB", "Year": 1999, "Genre": "Role-Playing", "Publisher": "Nintendo", "Global_Sales": 23.10 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 14, "Name": "Wii Fit", "Platform": "Wii", "Year": 2007, "Genre": "Sports", "Publisher": "Nintendo", "Global_Sales": 22.72 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 15, "Name": "Wii Fit Plus", "Platform": "Wii", "Year": 2009, "Genre": "Sports", "Publisher": "Nintendo", "Global_Sales": 22.00 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 16, "Name": "Kinect Adventures!", "Platform": "X360", "Year": 2010, "Genre": "Misc", "Publisher": "Microsoft Game Studios", "Global_Sales": 21.82 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 17, "Name": "Grand Theft Auto V", "Platform": "PS3", "Year": 2013, "Genre": "Action", "Publisher": "Take-Two Interactive", "Global_Sales": 21.40 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 18, "Name": "Grand Theft Auto: San Andreas", "Platform": "PS2", "Year": 2004, "Genre": "Action", "Publisher": "Take-Two Interactive", "Global_Sales": 20.81 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 19, "Name": "Super Mario World", "Platform": "SNES", "Year": 1990, "Genre": "Platform", "Publisher": "Nintendo", "Global_Sales": 20.61 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 20, "Name": "Brain Age: Train Your Brain in Minutes a Day", "Platform": "DS", "Year": 2005, "Genre": "Misc", "Publisher": "Nintendo", "Global_Sales": 20.22 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 21, "Name": "Pokemon Diamond/Pokemon Pearl", "Platform": "DS", "Year": 2006, "Genre": "Role-Playing", "Publisher": "Nintendo", "Global_Sales": 18.36 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 22, "Name": "Super Mario Land", "Platform": "GB", "Year": 1989, "Genre": "Platform", "Publisher": "Nintendo", "Global_Sales": 18.14 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 23, "Name": "Super Mario Bros. 3", "Platform": "NES", "Year": 1988, "Genre": "Platform", "Publisher": "Nintendo", "Global_Sales": 17.28 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 24, "Name": "Grand Theft Auto V", "Platform": "X360", "Year": 2013, "Genre": "Action", "Publisher": "Take-Two Interactive", "Global_Sales": 16.38 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 25, "Name": "Grand Theft Auto: Vice City", "Platform": "PS2", "Year": 2002, "Genre": "Action", "Publisher": "Take-Two Interactive", "Global_Sales": 16.15 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 26, "Name": "Pokemon Ruby/Pokemon Sapphire", "Platform": "GBA", "Year": 2002, "Genre": "Role-Playing", "Publisher": "Nintendo", "Global_Sales": 15.85 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 27, "Name": "Pokemon Black/Pokemon White", "Platform": "DS", "Year": 2010, "Genre": "Role-Playing", "Publisher": "Nintendo", "Global_Sales": 15.32 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 28, "Name": "Brain Age 2: More Training in Minutes a Day", "Platform": "DS", "Year": 2005, "Genre": "Puzzle", "Publisher": "Nintendo", "Global_Sales": 15.30 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 29, "Name": "Gran Turismo 3: A-Spec", "Platform": "PS2", "Year": 2001, "Genre": "Racing", "Publisher": "Sony Computer Entertainment", "Global_Sales": 14.98 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 30, "Name": "Call of Duty: Modern Warfare 3", "Platform": "X360", "Year": 2011, "Genre": "Shooter", "Publisher": "Activision", "Global_Sales": 14.76 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 31, "Name": "Pokémon Yellow: Special Pikachu Edition", "Platform": "GB", "Year": 1998, "Genre": "Role-Playing", "Publisher": "Nintendo", "Global_Sales": 14.64 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 32, "Name": "Call of Duty: Black Ops", "Platform": "X360", "Year": 2010, "Genre": "Shooter", "Publisher": "Activision", "Global_Sales": 14.64 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 33, "Name": "Pokemon X/Pokemon Y", "Platform": "3DS", "Year": 2013, "Genre": "Role-Playing", "Publisher": "Nintendo", "Global_Sales": 14.35 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 34, "Name": "Call of Duty: Black Ops 3", "Platform": "PS4", "Year": 2015, "Genre": "Shooter", "Publisher": "Activision", "Global_Sales": 14.24 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 35, "Name": "Call of Duty: Black Ops II", "Platform": "PS3", "Year": 2012, "Genre": "Shooter", "Publisher": "Activision", "Global_Sales": 14.03 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 36, "Name": "Call of Duty: Black Ops II", "Platform": "X360", "Year": 2012, "Genre": "Shooter", "Publisher": "Activision", "Global_Sales": 13.73 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 37, "Name": "Call of Duty: Modern Warfare 2", "Platform": "X360", "Year": 2009, "Genre": "Shooter", "Publisher": "Activision", "Global_Sales": 13.51 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 38, "Name": "Call of Duty: Modern Warfare 3", "Platform": "PS3", "Year": 2011, "Genre": "Shooter", "Publisher": "Activision", "Global_Sales": 13.46 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 39, "Name": "Grand Theft Auto III", "Platform": "PS2", "Year": 2001, "Genre": "Action", "Publisher": "Take-Two Interactive", "Global_Sales": 13.10 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 40, "Name": "Super Smash Bros. Brawl", "Platform": "Wii", "Year": 2008, "Genre": "Fighting", "Publisher": "Nintendo", "Global_Sales": 13.04 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 41, "Name": "Call of Duty: Black Ops", "Platform": "PS3", "Year": 2010, "Genre": "Shooter", "Publisher": "Activision", "Global_Sales": 12.73 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 42, "Name": "Animal Crossing: Wild World", "Platform": "DS", "Year": 2005, "Genre": "Simulation", "Publisher": "Nintendo", "Global_Sales": 12.27 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 43, "Name": "Mario Kart 7", "Platform": "3DS", "Year": 2011, "Genre": "Racing", "Publisher": "Nintendo", "Global_Sales": 12.21 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 44, "Name": "Halo 3", "Platform": "X360", "Year": 2007, "Genre": "Shooter", "Publisher": "Microsoft Game Studios", "Global_Sales": 12.14 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 45, "Name": "Grand Theft Auto V", "Platform": "PS4", "Year": 2014, "Genre": "Action", "Publisher": "Take-Two Interactive", "Global_Sales": 11.98 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 46, "Name": "Pokemon HeartGold/Pokemon SoulSilver", "Platform": "DS", "Year": 2009, "Genre": "Action", "Publisher": "Nintendo", "Global_Sales": 11.90 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 47, "Name": "Super Mario 64", "Platform": "N64", "Year": 1996, "Genre": "Platform", "Publisher": "Nintendo", "Global_Sales": 11.89 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 48, "Name": "Gran Turismo 4", "Platform": "PS2", "Year": 2004, "Genre": "Racing", "Publisher": "Sony Computer Entertainment", "Global_Sales": 11.66 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 49, "Name": "Super Mario Galaxy", "Platform": "Wii", "Year": 2007, "Genre": "Platform", "Publisher": "Nintendo", "Global_Sales": 11.52 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 50, "Name": "Pokemon Omega Ruby/Pokemon Alpha Sapphire", "Platform": "3DS", "Year": 2014, "Genre": "Role-Playing", "Publisher": "Nintendo", "Global_Sales": 11.33 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 51, "Name": "Super Mario Land 2: 6 Golden Coins", "Platform": "GB", "Year": 1992, "Genre": "Adventure", "Publisher": "Nintendo", "Global_Sales": 11.18 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 52, "Name": "Grand Theft Auto IV", "Platform": "X360", "Year": 2008, "Genre": "Action", "Publisher": "Take-Two Interactive", "Global_Sales": 11.02 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 53, "Name": "Gran Turismo", "Platform": "PS", "Year": 1997, "Genre": "Racing", "Publisher": "Sony Computer Entertainment", "Global_Sales": 10.95 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 54, "Name": "Super Mario 3D Land", "Platform": "3DS", "Year": 2011, "Genre": "Platform", "Publisher": "Nintendo", "Global_Sales": 10.79 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 55, "Name": "Gran Turismo 5", "Platform": "PS3", "Year": 2010, "Genre": "Racing", "Publisher": "Sony Computer Entertainment", "Global_Sales": 10.77 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 56, "Name": "Call of Duty: Modern Warfare 2", "Platform": "PS3", "Year": 2009, "Genre": "Shooter", "Publisher": "Activision", "Global_Sales": 10.69 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 57, "Name": "Grand Theft Auto IV", "Platform": "PS3", "Year": 2008, "Genre": "Action", "Publisher": "Take-Two Interactive", "Global_Sales": 10.57 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 58, "Name": "Super Mario All-Stars", "Platform": "SNES", "Year": 1993, "Genre": "Platform", "Publisher": "Nintendo", "Global_Sales": 10.55 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 59, "Name": "Pokemon FireRed/Pokemon LeafGreen", "Platform": "GBA", "Year": 2004, "Genre": "Role-Playing", "Publisher": "Nintendo", "Global_Sales": 10.49 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 60, "Name": "Super Mario 64", "Platform": "DS", "Year": 2004, "Genre": "Platform", "Publisher": "Nintendo", "Global_Sales": 10.42 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 61, "Name": "Just Dance 3", "Platform": "Wii", "Year": 2011, "Genre": "Misc", "Publisher": "Ubisoft", "Global_Sales": 10.26 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 62, "Name": "Call of Duty: Ghosts", "Platform": "X360", "Year": 2013, "Genre": "Shooter", "Publisher": "Activision", "Global_Sales": 10.21 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 63, "Name": "Halo: Reach", "Platform": "X360", "Year": 2010, "Genre": "Shooter", "Publisher": "Microsoft Game Studios", "Global_Sales": 9.88 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 64, "Name": "Mario Kart 64", "Platform": "N64", "Year": 1996, "Genre": "Racing", "Publisher": "Nintendo", "Global_Sales": 9.87 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 65, "Name": "New Super Mario Bros. 2", "Platform": "3DS", "Year": 2012, "Genre": "Platform", "Publisher": "Nintendo", "Global_Sales": 9.82 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 66, "Name": "Halo 4", "Platform": "X360", "Year": 2012, "Genre": "Shooter", "Publisher": "Microsoft Game Studios", "Global_Sales": 9.76 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 67, "Name": "Final Fantasy VII", "Platform": "PS", "Year": 1997, "Genre": "Role-Playing", "Publisher": "Sony Computer Entertainment", "Global_Sales": 9.72 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 68, "Name": "Call of Duty: Ghosts", "Platform": "PS3", "Year": 2013, "Genre": "Shooter", "Publisher": "Activision", "Global_Sales": 9.59 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 69, "Name": "Just Dance 2", "Platform": "Wii", "Year": 2010, "Genre": "Misc", "Publisher": "Ubisoft", "Global_Sales": 9.52 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 70, "Name": "Gran Turismo 2", "Platform": "PS", "Year": 1999, "Genre": "Racing", "Publisher": "Sony Computer Entertainment", "Global_Sales": 9.49 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 71, "Name": "Call of Duty 4: Modern Warfare", "Platform": "X360", "Year": 2007, "Genre": "Shooter", "Publisher": "Activision", "Global_Sales": 9.32 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 72, "Name": "Donkey Kong Country", "Platform": "SNES", "Year": 1994, "Genre": "Platform", "Publisher": "Nintendo", "Global_Sales": 9.30 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 73, "Name": "Minecraft", "Platform": "X360", "Year": 2013, "Genre": "Misc", "Publisher": "Microsoft Game Studios", "Global_Sales": 9.20 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 74, "Name": "Animal Crossing: New Leaf", "Platform": "3DS", "Year": 2012, "Genre": "Simulation", "Publisher": "Nintendo", "Global_Sales": 9.09 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 75, "Name": "Mario Party DS", "Platform": "DS", "Year": 2007, "Genre": "Misc", "Publisher": "Nintendo", "Global_Sales": 9.02 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 76, "Name": "The Elder Scrolls V: Skyrim", "Platform": "X360", "Year": 2011, "Genre": "Role-Playing", "Publisher": "Bethesda Softworks", "Global_Sales": 8.84 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 77, "Name": "Super Mario Kart", "Platform": "SNES", "Year": 1992, "Genre": "Racing", "Publisher": "Nintendo", "Global_Sales": 8.76 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 78, "Name": "FIFA 16", "Platform": "PS4", "Year": 2015, "Genre": "Sports", "Publisher": "Electronic Arts", "Global_Sales": 8.49 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 79, "Name": "Wii Party", "Platform": "Wii", "Year": 2010, "Genre": "Misc", "Publisher": "Nintendo", "Global_Sales": 8.49 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 80, "Name": "Halo 2", "Platform": "XB", "Year": 2004, "Genre": "Shooter", "Publisher": "Microsoft Game Studios", "Global_Sales": 8.49 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 81, "Name": "Mario Party 8", "Platform": "Wii", "Year": 2007, "Genre": "Misc", "Publisher": "Nintendo", "Global_Sales": 8.42 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 82, "Name": "Pokemon Black 2/Pokemon White 2", "Platform": "DS", "Year": 2012, "Genre": "Role-Playing", "Publisher": "Nintendo", "Global_Sales": 8.33 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 83, "Name": "FIFA Soccer 13", "Platform": "PS3", "Year": 2012, "Genre": "Action", "Publisher": "Electronic Arts", "Global_Sales": 8.24 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 84, "Name": "The Sims 3", "Platform": "PC", "Year": 2009, "Genre": "Simulation", "Publisher": "Electronic Arts", "Global_Sales": 8.11 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 85, "Name": "GoldenEye 007", "Platform": "N64", "Year": 1997, "Genre": "Shooter", "Publisher": "Nintendo", "Global_Sales": 8.09 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 86, "Name": "Mario & Sonic at the Olympic Games", "Platform": "Wii", "Year": 2007, "Genre": "Sports", "Publisher": "Sega", "Global_Sales": 8.06 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 87, "Name": "Final Fantasy X", "Platform": "PS2", "Year": 2001, "Genre": "Role-Playing", "Publisher": "Sony Computer Entertainment", "Global_Sales": 8.05 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 88, "Name": "Final Fantasy VIII", "Platform": "PS", "Year": 1999, "Genre": "Role-Playing", "Publisher": "SquareSoft", "Global_Sales": 7.86 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 89, "Name": "Pokémon Platinum Version", "Platform": "DS", "Year": 2008, "Genre": "Role-Playing", "Publisher": "Nintendo", "Global_Sales": 7.84 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 90, "Name": "Pac-Man", "Platform": "2600", "Year": 1982, "Genre": "Puzzle", "Publisher": "Atari", "Global_Sales": 7.81 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 91, "Name": "Grand Theft Auto: Liberty City Stories", "Platform": "PSP", "Year": 2005, "Genre": "Action", "Publisher": "Take-Two Interactive", "Global_Sales": 7.72 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 92, "Name": "Super Mario Galaxy 2", "Platform": "Wii", "Year": 2010, "Genre": "Platform", "Publisher": "Nintendo", "Global_Sales": 7.69 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 93, "Name": "Star Wars Battlefront (2015)", "Platform": "PS4", "Year": 2015, "Genre": "Shooter", "Publisher": "Electronic Arts", "Global_Sales": 7.67 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 94, "Name": "Call of Duty: Advanced Warfare", "Platform": "PS4", "Year": 2014, "Genre": "Shooter", "Publisher": "Activision", "Global_Sales": 7.60 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 95, "Name": "The Legend of Zelda: Ocarina of Time", "Platform": "N64", "Year": 1998, "Genre": "Action", "Publisher": "Nintendo", "Global_Sales": 7.60 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 96, "Name": "Crash Bandicoot 2: Cortex Strikes Back", "Platform": "PS", "Year": 1997, "Genre": "Platform", "Publisher": "Sony Computer Entertainment", "Global_Sales": 7.58 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 97, "Name": "Super Mario Bros. 2", "Platform": "NES", "Year": 1988, "Genre": "Platform", "Publisher": "Nintendo", "Global_Sales": 7.46 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 98, "Name": "Super Smash Bros. for Wii U and 3DS", "Platform": "3DS", "Year": 2014, "Genre": "Fighting", "Publisher": "Nintendo", "Global_Sales": 7.45 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 99, "Name": "Call of Duty: World at War", "Platform": "X360", "Year": 2008, "Genre": "Shooter", "Publisher": "Activision", "Global_Sales": 7.37 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 100, "Name": "Battlefield 3", "Platform": "X360", "Year": 2011, "Genre": "Shooter", "Publisher": "Electronic Arts", "Global_Sales": 7.34 }
+{ "index" : { "_index" : "games" } }
+{ "Rank": 101, "Name": "The Legend of Zelda: Twilight Princess", "Platform": "Wii", "Year": 2006, "Genre": "Action", "Publisher": "Nintendo", "Global_Sales": 7.31 }
